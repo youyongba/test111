@@ -12,6 +12,6 @@
   * [设置编辑用户](user/setEditUser.md)
 
 * [游戏列表页面]()
-  * [获取游戏列表](game/getGameList.md)
+  * [获取游戏列表](user/getGameList.md)
   
  
