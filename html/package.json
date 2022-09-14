@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "docker run -v /Users/qihong/dev/lession/gitbooktest111/test:/srv/gitbook -v /Users/qihong/dev/lession/gitbooktest111/test/html:/srv/html fellah/gitbook gitbook build . /srv/html"
+    "start": "docker run -v /Users/qihong/dev/lession/test111:/srv/gitbook -v /Users/qihong/dev/lession/test111/html:/srv/html fellah/gitbook gitbook build . /srv/html"
   },
   "author": "",
   "license": "ISC"
